@@ -1,0 +1,3 @@
+[submodule "scip"]
+	path = scip
+	url = https://github.com/scipopt/scip
